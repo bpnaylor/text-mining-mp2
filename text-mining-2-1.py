@@ -1,4 +1,5 @@
 import os
+from sys import argv
 
 all_files = []
 emissions = {}       # "word/tag"      -> c("word/tag")
@@ -45,7 +46,8 @@ def tokenize_all(files):
         tokens = tokenize(files[i])        
         build_model(tokens, i)
 
-data_files = load_directory("C:/Users/redwa_000/Downloads/Max/0 UVa/Text Mining/text-mining-2/tagged")
+file_path = argv[1]
+data_files = load_directory(os.path.abspath(file_path))
 tokenize_all(data_files)
 
 emissions_sorted = [(k, emissions[k]+0.1) for k in sorted(emissions, key=emissions.get, reverse=True)]
