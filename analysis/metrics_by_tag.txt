@@ -1,0 +1,120 @@
+$
+	 precision: 1.0
+	 recall: 1.0
+''
+	 precision: 1.0
+	 recall: 0.998936170213
+(
+	 precision: 1.0
+	 recall: 0.997454573935
+)
+	 precision: 1.0
+	 recall: 1.0
+,
+	 precision: 1.0
+	 recall: 0.999829931973
+.
+	 precision: 1.0
+	 recall: 1.0
+:
+	 precision: 1.0
+	 recall: 1.0
+``
+	 precision: 1.0
+	 recall: 1.0
+cc
+	 precision: 0.998930481283
+	 recall: 0.999642218247
+cd
+	 precision: 0.99175369327
+	 recall: 0.954296433124
+dt
+	 precision: 0.992550250062
+	 recall: 0.799092601173
+ex
+	 precision: 0.99072097967
+	 recall: 0.947044653265
+fw
+	 precision: 0.788235294118
+	 recall: 0.653418803419
+in
+	 precision: 0.960594567399
+	 recall: 0.985807455707
+jj
+	 precision: 0.881027583653
+	 recall: 0.692871767722
+jjr
+	 precision: 0.803922259365
+	 recall: 0.890778309756
+jjs
+	 precision: 0.864702490425
+	 recall: 0.904985860095
+md
+	 precision: 0.797910306348
+	 recall: 0.76846884142
+nn
+	 precision: 0.918902061503
+	 recall: 0.845484617477
+nnp
+	 precision: 0.595895005847
+	 recall: 0.897654094045
+nnps
+	 precision: 0.381399283806
+	 recall: 0.25037460505
+nns
+	 precision: 0.825386930732
+	 recall: 0.645001333834
+pdt
+	 precision: 0.989332290037
+	 recall: 0.490261488562
+pos
+	 precision: 0.995541660023
+	 recall: 0.837624498166
+prp
+	 precision: 0.995424133811
+	 recall: 0.986837401948
+prp$
+	 precision: 0.976647664673
+	 recall: 0.969106999195
+rb
+	 precision: 0.956421631731
+	 recall: 0.758277717522
+rbr
+	 precision: 0.891794871795
+	 recall: 0.339846835145
+rbs
+	 precision: 0.675
+	 recall: 0.351282051282
+to
+	 precision: 0.770844199749
+	 recall: 0.65658108839
+vb
+	 precision: 0.935359840786
+	 recall: 0.872658736458
+vbd
+	 precision: 0.927021252475
+	 recall: 0.774574694705
+vbg
+	 precision: 0.920178327882
+	 recall: 0.741136834014
+vbn
+	 precision: 0.91533889396
+	 recall: 0.674458839823
+vbp
+	 precision: 0.72714613593
+	 recall: 0.590150522385
+vbz
+	 precision: 0.9264576882
+	 recall: 0.825986867934
+wdt
+	 precision: 0.952923957719
+	 recall: 0.853174078629
+wp
+	 precision: 0.98104456328
+	 recall: 0.93806266549
+wp$
+	 precision: 0.980240763802
+	 recall: 0.975272727273
+wrb
+	 precision: 0.8
+	 recall: 0.789939393939
